@@ -6,11 +6,8 @@
 
 在ip.txt中放入需要处理的ip
 
-<<<<<<< HEAD:删除重复ip/readme/readme.md
 ![image-20210628180632475](image-20210628180632475.png)
 =======
-![image-20210628180632475](\images\image-20210628180632475.png)
->>>>>>> 2adda64df3e638d2b70254803cd21b773f321341:删除重复ip/readme.md
 
 
 
